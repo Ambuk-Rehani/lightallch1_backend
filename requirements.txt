@@ -9,5 +9,3 @@ six==1.16.0
 SQLAlchemy==2.0.9
 typing_extensions==4.5.0
 Werkzeug==2.2.3
-FLASK_APP=app.py
-FLASK_ENV=development
